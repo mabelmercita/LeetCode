@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0890-lemonade-change](https://github.com/mabelmercita/LeetCode/tree/master/0890-lemonade-change) |
 | [3533-snake-in-matrix](https://github.com/mabelmercita/LeetCode/tree/master/3533-snake-in-matrix) |
 ## String
 |  |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3533-snake-in-matrix](https://github.com/mabelmercita/LeetCode/tree/master/3533-snake-in-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/mabelmercita/LeetCode/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
