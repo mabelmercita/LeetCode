@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mabelmercita/LeetCode/tree/master/0001-two-sum) |
 | [0890-lemonade-change](https://github.com/mabelmercita/LeetCode/tree/master/0890-lemonade-change) |
+| [2155-find-missing-observations](https://github.com/mabelmercita/LeetCode/tree/master/2155-find-missing-observations) |
 | [3533-snake-in-matrix](https://github.com/mabelmercita/LeetCode/tree/master/3533-snake-in-matrix) |
 ## String
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2155-find-missing-observations](https://github.com/mabelmercita/LeetCode/tree/master/2155-find-missing-observations) |
 | [3533-snake-in-matrix](https://github.com/mabelmercita/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Greedy
 |  |
@@ -29,4 +31,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mabelmercita/LeetCode/tree/master/0009-palindrome-number) |
+| [2155-find-missing-observations](https://github.com/mabelmercita/LeetCode/tree/master/2155-find-missing-observations) |
 <!---LeetCode Topics End-->
