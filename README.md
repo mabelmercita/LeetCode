@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1764-maximum-repeating-substring](https://github.com/mabelmercita/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [3533-snake-in-matrix](https://github.com/mabelmercita/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Simulation
 |  |
@@ -32,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/mabelmercita/LeetCode/tree/master/0009-palindrome-number) |
 | [2155-find-missing-observations](https://github.com/mabelmercita/LeetCode/tree/master/2155-find-missing-observations) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1764-maximum-repeating-substring](https://github.com/mabelmercita/LeetCode/tree/master/1764-maximum-repeating-substring) |
+## String Matching
+|  |
+| ------- |
+| [1764-maximum-repeating-substring](https://github.com/mabelmercita/LeetCode/tree/master/1764-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
