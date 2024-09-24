@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mabelmercita/LeetCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/mabelmercita/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mabelmercita/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0066-plus-one](https://github.com/mabelmercita/LeetCode/tree/master/0066-plus-one) |
 | [0890-lemonade-change](https://github.com/mabelmercita/LeetCode/tree/master/0890-lemonade-change) |
 | [2155-find-missing-observations](https://github.com/mabelmercita/LeetCode/tree/master/2155-find-missing-observations) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/mabelmercita/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mabelmercita/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/mabelmercita/LeetCode/tree/master/0066-plus-one) |
 | [2155-find-missing-observations](https://github.com/mabelmercita/LeetCode/tree/master/2155-find-missing-observations) |
 ## Dynamic Programming
 |  |
