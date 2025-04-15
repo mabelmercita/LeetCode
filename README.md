@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/mabelmercita/LeetCode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/mabelmercita/LeetCode/tree/master/0020-valid-parentheses) |
 | [1764-maximum-repeating-substring](https://github.com/mabelmercita/LeetCode/tree/master/1764-maximum-repeating-substring) |
+| [1894-merge-strings-alternately](https://github.com/mabelmercita/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/mabelmercita/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mabelmercita/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/mabelmercita/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/mabelmercita/LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/mabelmercita/LeetCode/tree/master/0027-remove-element) |
+| [1894-merge-strings-alternately](https://github.com/mabelmercita/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Counting
 |  |
 | ------- |
