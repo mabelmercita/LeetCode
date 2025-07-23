@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/mabelmercita/LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/mabelmercita/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/mabelmercita/LeetCode/tree/master/0066-plus-one) |
+| [0217-contains-duplicate](https://github.com/mabelmercita/LeetCode/tree/master/0217-contains-duplicate) |
 | [0890-lemonade-change](https://github.com/mabelmercita/LeetCode/tree/master/0890-lemonade-change) |
 | [1256-rank-transform-of-an-array](https://github.com/mabelmercita/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mabelmercita/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/mabelmercita/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/mabelmercita/LeetCode/tree/master/0012-integer-to-roman) |
+| [0217-contains-duplicate](https://github.com/mabelmercita/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mabelmercita/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/mabelmercita/LeetCode/tree/master/0389-find-the-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/mabelmercita/LeetCode/tree/master/1256-rank-transform-of-an-array) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mabelmercita/LeetCode/tree/master/0015-3sum) |
+| [0217-contains-duplicate](https://github.com/mabelmercita/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/mabelmercita/LeetCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/mabelmercita/LeetCode/tree/master/0389-find-the-difference) |
 | [1256-rank-transform-of-an-array](https://github.com/mabelmercita/LeetCode/tree/master/1256-rank-transform-of-an-array) |
