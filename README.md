@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mabelmercita/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/mabelmercita/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/mabelmercita/LeetCode/tree/master/0217-contains-duplicate) |
+| [0287-find-the-duplicate-number](https://github.com/mabelmercita/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0890-lemonade-change](https://github.com/mabelmercita/LeetCode/tree/master/0890-lemonade-change) |
 | [1256-rank-transform-of-an-array](https://github.com/mabelmercita/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mabelmercita/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/mabelmercita/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/mabelmercita/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2586-longest-square-streak-in-an-array](https://github.com/mabelmercita/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Trie
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/mabelmercita/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mabelmercita/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/mabelmercita/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/mabelmercita/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1894-merge-strings-alternately](https://github.com/mabelmercita/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Counting
 |  |
@@ -134,5 +137,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/mabelmercita/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/mabelmercita/LeetCode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
