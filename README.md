@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mabelmercita/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/mabelmercita/LeetCode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/mabelmercita/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0724-find-pivot-index](https://github.com/mabelmercita/LeetCode/tree/master/0724-find-pivot-index) |
 | [0890-lemonade-change](https://github.com/mabelmercita/LeetCode/tree/master/0890-lemonade-change) |
 | [1256-rank-transform-of-an-array](https://github.com/mabelmercita/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mabelmercita/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -144,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/mabelmercita/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/mabelmercita/LeetCode/tree/master/0389-find-the-difference) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/mabelmercita/LeetCode/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
