@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/mabelmercita/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0066-plus-one](https://github.com/mabelmercita/LeetCode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/mabelmercita/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/mabelmercita/LeetCode/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mabelmercita/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/mabelmercita/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mabelmercita/LeetCode/tree/master/0217-contains-duplicate) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/mabelmercita/LeetCode/tree/master/0118-pascals-triangle) |
 | [1764-maximum-repeating-substring](https://github.com/mabelmercita/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [2586-longest-square-streak-in-an-array](https://github.com/mabelmercita/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mabelmercita/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
