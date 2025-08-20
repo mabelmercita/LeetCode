@@ -1,12 +1,12 @@
 class Solution(object):
     def zeroFilledSubarray(self, nums):
-        count = 0
-        streak = 0
-        for num in nums:
-            if num == 0:
-                streak += 1
-                count += streak
+        current_0_subarray = total_0_subarray = 0
+        for i in nums:
+            if i == 0:
+                current_0_subarray += 1
+                total_0_subarray += current_0_subarray
             else:
-                streak = 0
-        return count
+                current_0_subarray = 0
+        return total_0_subarray
+
         
