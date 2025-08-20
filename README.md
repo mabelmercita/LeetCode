@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/mabelmercita/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mabelmercita/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2155-find-missing-observations](https://github.com/mabelmercita/LeetCode/tree/master/2155-find-missing-observations) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/mabelmercita/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2586-longest-square-streak-in-an-array](https://github.com/mabelmercita/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/mabelmercita/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mabelmercita/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/mabelmercita/LeetCode/tree/master/0066-plus-one) |
 | [0342-power-of-four](https://github.com/mabelmercita/LeetCode/tree/master/0342-power-of-four) |
 | [2155-find-missing-observations](https://github.com/mabelmercita/LeetCode/tree/master/2155-find-missing-observations) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/mabelmercita/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
