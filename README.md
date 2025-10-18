@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/mabelmercita/LeetCode/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mabelmercita/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/mabelmercita/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/mabelmercita/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/mabelmercita/LeetCode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/mabelmercita/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/mabelmercita/LeetCode/tree/master/0724-find-pivot-index) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/mabelmercita/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/mabelmercita/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/mabelmercita/LeetCode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/mabelmercita/LeetCode/tree/master/0189-rotate-array) |
 | [0342-power-of-four](https://github.com/mabelmercita/LeetCode/tree/master/0342-power-of-four) |
 | [2155-find-missing-observations](https://github.com/mabelmercita/LeetCode/tree/master/2155-find-missing-observations) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/mabelmercita/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mabelmercita/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/mabelmercita/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mabelmercita/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/mabelmercita/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/mabelmercita/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1894-merge-strings-alternately](https://github.com/mabelmercita/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Counting
