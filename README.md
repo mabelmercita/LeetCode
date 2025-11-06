@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mabelmercita/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mabelmercita/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/mabelmercita/LeetCode/tree/master/2155-find-missing-observations) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/mabelmercita/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/mabelmercita/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2586-longest-square-streak-in-an-array](https://github.com/mabelmercita/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/mabelmercita/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-maximum-repeating-substring](https://github.com/mabelmercita/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1894-merge-strings-alternately](https://github.com/mabelmercita/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mabelmercita/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2219-maximum-number-of-words-found-in-sentences](https://github.com/mabelmercita/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/mabelmercita/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mabelmercita/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/mabelmercita/LeetCode/tree/master/3194-find-words-containing-character) |
