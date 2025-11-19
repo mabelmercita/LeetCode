@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/mabelmercita/LeetCode/tree/master/2155-find-missing-observations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/mabelmercita/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/mabelmercita/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2442-number-of-arithmetic-triplets](https://github.com/mabelmercita/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/mabelmercita/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2586-longest-square-streak-in-an-array](https://github.com/mabelmercita/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/mabelmercita/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/mabelmercita/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mabelmercita/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mabelmercita/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2442-number-of-arithmetic-triplets](https://github.com/mabelmercita/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 | [2586-longest-square-streak-in-an-array](https://github.com/mabelmercita/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 ## Math
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/mabelmercita/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/mabelmercita/LeetCode/tree/master/0861-flipping-an-image) |
 | [1894-merge-strings-alternately](https://github.com/mabelmercita/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2442-number-of-arithmetic-triplets](https://github.com/mabelmercita/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 ## Counting
 |  |
 | ------- |
@@ -235,4 +238,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2585-delete-greatest-value-in-each-row](https://github.com/mabelmercita/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
+## Enumeration
+|  |
+| ------- |
+| [2442-number-of-arithmetic-triplets](https://github.com/mabelmercita/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
