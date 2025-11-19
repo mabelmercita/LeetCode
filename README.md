@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mabelmercita/LeetCode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/mabelmercita/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/mabelmercita/LeetCode/tree/master/0724-find-pivot-index) |
+| [0861-flipping-an-image](https://github.com/mabelmercita/LeetCode/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/mabelmercita/LeetCode/tree/master/0890-lemonade-change) |
 | [1256-rank-transform-of-an-array](https://github.com/mabelmercita/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mabelmercita/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/mabelmercita/LeetCode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/mabelmercita/LeetCode/tree/master/0412-fizz-buzz) |
+| [0861-flipping-an-image](https://github.com/mabelmercita/LeetCode/tree/master/0861-flipping-an-image) |
 | [2058-concatenation-of-array](https://github.com/mabelmercita/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mabelmercita/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/mabelmercita/LeetCode/tree/master/2155-find-missing-observations) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mabelmercita/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mabelmercita/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/mabelmercita/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0861-flipping-an-image](https://github.com/mabelmercita/LeetCode/tree/master/0861-flipping-an-image) |
 | [1894-merge-strings-alternately](https://github.com/mabelmercita/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Counting
 |  |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/mabelmercita/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/mabelmercita/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/mabelmercita/LeetCode/tree/master/0389-find-the-difference) |
+| [0861-flipping-an-image](https://github.com/mabelmercita/LeetCode/tree/master/0861-flipping-an-image) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -214,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0861-flipping-an-image](https://github.com/mabelmercita/LeetCode/tree/master/0861-flipping-an-image) |
 | [1791-richest-customer-wealth](https://github.com/mabelmercita/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/mabelmercita/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Counting Sort
