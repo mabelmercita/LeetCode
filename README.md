@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/mabelmercita/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/mabelmercita/LeetCode/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/mabelmercita/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mabelmercita/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/mabelmercita/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/mabelmercita/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2155-find-missing-observations](https://github.com/mabelmercita/LeetCode/tree/master/2155-find-missing-observations) |
