@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/mabelmercita/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/mabelmercita/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2155-find-missing-observations](https://github.com/mabelmercita/LeetCode/tree/master/2155-find-missing-observations) |
+| [2288-count-operations-to-obtain-zero](https://github.com/mabelmercita/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/mabelmercita/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 | [3533-snake-in-matrix](https://github.com/mabelmercita/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Greedy
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/mabelmercita/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2155-find-missing-observations](https://github.com/mabelmercita/LeetCode/tree/master/2155-find-missing-observations) |
 | [2238-a-number-after-a-double-reversal](https://github.com/mabelmercita/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
+| [2288-count-operations-to-obtain-zero](https://github.com/mabelmercita/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2383-add-two-integers](https://github.com/mabelmercita/LeetCode/tree/master/2383-add-two-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/mabelmercita/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2491-smallest-even-multiple](https://github.com/mabelmercita/LeetCode/tree/master/2491-smallest-even-multiple) |
