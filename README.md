@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/mabelmercita/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/mabelmercita/LeetCode/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/mabelmercita/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [1610-xor-operation-in-an-array](https://github.com/mabelmercita/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/mabelmercita/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 | [2155-find-missing-observations](https://github.com/mabelmercita/LeetCode/tree/master/2155-find-missing-observations) |
 | [2238-a-number-after-a-double-reversal](https://github.com/mabelmercita/LeetCode/tree/master/2238-a-number-after-a-double-reversal) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/mabelmercita/LeetCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/mabelmercita/LeetCode/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/mabelmercita/LeetCode/tree/master/0861-flipping-an-image) |
+| [1610-xor-operation-in-an-array](https://github.com/mabelmercita/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
