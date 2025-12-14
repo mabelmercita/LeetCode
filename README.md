@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mabelmercita/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/mabelmercita/LeetCode/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/mabelmercita/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/mabelmercita/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/mabelmercita/LeetCode/tree/master/0724-find-pivot-index) |
 | [0861-flipping-an-image](https://github.com/mabelmercita/LeetCode/tree/master/0861-flipping-an-image) |
 | [0890-lemonade-change](https://github.com/mabelmercita/LeetCode/tree/master/0890-lemonade-change) |
