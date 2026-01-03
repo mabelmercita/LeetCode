@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/mabelmercita/LeetCode/tree/master/0890-lemonade-change) |
 | [1256-rank-transform-of-an-array](https://github.com/mabelmercita/LeetCode/tree/master/1256-rank-transform-of-an-array) |
 | [1470-shuffle-the-array](https://github.com/mabelmercita/LeetCode/tree/master/1470-shuffle-the-array) |
+| [1480-running-sum-of-1d-array](https://github.com/mabelmercita/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mabelmercita/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/mabelmercita/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mabelmercita/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/mabelmercita/LeetCode/tree/master/0724-find-pivot-index) |
+| [1480-running-sum-of-1d-array](https://github.com/mabelmercita/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1603-running-sum-of-1d-array](https://github.com/mabelmercita/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
