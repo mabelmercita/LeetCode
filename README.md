@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/mabelmercita/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1603-running-sum-of-1d-array](https://github.com/mabelmercita/LeetCode/tree/master/1603-running-sum-of-1d-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mabelmercita/LeetCode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1672-richest-customer-wealth](https://github.com/mabelmercita/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1791-richest-customer-wealth](https://github.com/mabelmercita/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/mabelmercita/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2058-concatenation-of-array](https://github.com/mabelmercita/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/mabelmercita/LeetCode/tree/master/0861-flipping-an-image) |
+| [1672-richest-customer-wealth](https://github.com/mabelmercita/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1791-richest-customer-wealth](https://github.com/mabelmercita/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/mabelmercita/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Counting Sort
