@@ -285,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2442-number-of-arithmetic-triplets](https://github.com/mabelmercita/LeetCode/tree/master/2442-number-of-arithmetic-triplets) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/mabelmercita/LeetCode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
