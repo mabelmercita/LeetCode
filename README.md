@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/mabelmercita/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0742-to-lower-case](https://github.com/mabelmercita/LeetCode/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/mabelmercita/LeetCode/tree/master/0782-jewels-and-stones) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/mabelmercita/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1205-defanging-an-ip-address](https://github.com/mabelmercita/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1764-maximum-repeating-substring](https://github.com/mabelmercita/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [1768-merge-strings-alternately](https://github.com/mabelmercita/LeetCode/tree/master/1768-merge-strings-alternately) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/mabelmercita/LeetCode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/mabelmercita/LeetCode/tree/master/0412-fizz-buzz) |
 | [0728-self-dividing-numbers](https://github.com/mabelmercita/LeetCode/tree/master/0728-self-dividing-numbers) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/mabelmercita/LeetCode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/mabelmercita/LeetCode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/mabelmercita/LeetCode/tree/master/1610-xor-operation-in-an-array) |
 | [1630-count-odd-numbers-in-an-interval-range](https://github.com/mabelmercita/LeetCode/tree/master/1630-count-odd-numbers-in-an-interval-range) |
