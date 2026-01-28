@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/mabelmercita/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/mabelmercita/LeetCode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3533-snake-in-matrix](https://github.com/mabelmercita/LeetCode/tree/master/3533-snake-in-matrix) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/mabelmercita/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## String
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-maximum-repeating-substring](https://github.com/mabelmercita/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [2586-longest-square-streak-in-an-array](https://github.com/mabelmercita/LeetCode/tree/master/2586-longest-square-streak-in-an-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/mabelmercita/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/mabelmercita/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## String Matching
 |  |
 | ------- |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/mabelmercita/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1791-richest-customer-wealth](https://github.com/mabelmercita/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2585-delete-greatest-value-in-each-row](https://github.com/mabelmercita/LeetCode/tree/master/2585-delete-greatest-value-in-each-row) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/mabelmercita/LeetCode/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Counting Sort
 |  |
 | ------- |
